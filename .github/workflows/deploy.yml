@@ -36,7 +36,7 @@ jobs:
       - name: Build project
         run: |
           REPO_NAME=$(echo ${{ github.repository }} | cut -d '/' -f 2)
-          npm run build -- --base=/${REPO_NAME}/
+          npx vite build --base=/${REPO_NAME}/
         
       - name: Setup Pages
         uses: actions/configure-pages@v4
