@@ -33,7 +33,7 @@ const router = createRouter({
 	scrollRestoration: true,
 	defaultStructuralSharing: true,
 	defaultPreloadStaleTime: 0,
-	basepath: import.meta.env.TENANT_ID ? `/${import.meta.env.TENANT_ID}` : "/",
+	basepath: import.meta.env.BASE_URL || "/",
 });
 
 // Register the router instance for type safety
