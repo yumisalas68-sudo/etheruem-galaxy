@@ -1,0 +1,26 @@
+version: "2"
+type: frontend
+tech_stack:
+  - react
+  - typescript
+  - three.js
+  - tailwindcss
+routes:
+  - path: /
+    file: src/routes/index.tsx
+    auth_required: false
+    description: Main Ethereum Ecosystem Galaxy visualization
+features:
+  - name: Galaxy Visualization
+    description: 3D interactive galaxy showing 1,722 ethereum projects
+    files:
+      - src/components/EthereumGalaxy.tsx
+      - src/routes/index.tsx
+    entry_route: /
+    user_interactions:
+      - Hover over orb to see ProjectDetailPanel
+      - Toggle themes via UIOverlay
+      - Search for projects by name
+    api_calls: []
+    auth_required: false
+known_limitations: []

@@ -1,0 +1,18 @@
+{
+  "status": "commited",
+  "type": "frontend",
+  "scope": "codebase",
+  "localEndpoint": "http://localhost:3001",
+  "executionArgs": {
+    "projectName": "Ethereum Ecosystem Galaxy",
+    "projectPath": "c:\\Users\\yezir\\Downloads\\creao-build-6914a6cf02d341c58c9d6ccd",
+    "testIds": [],
+    "additionalInstruction": "",
+    "serverMode": "development",
+    "envs": {
+      "API_KEY": "sk-user-mkZ7gqx7_-A4ha_lH-EU0_0ERew6WVPSYyRLarV4KsZTXe6fENa8WN3HL_h6_TgCIWAXWDPODEtSQ010wAza4LuTlrqWPhfyEpSWPhu_DYzcS8y6Go3MJCpxYpzhfvZeWFw "
+    }
+  },
+  "serverPort": 56547,
+  "proxy": "http://5de450c8-c83d-474d-928d-10985bd3d310:yzXhBhBAHm21MujkpHHRqWYj5AEcbvsk@tun.testsprite.com:8080"
+}

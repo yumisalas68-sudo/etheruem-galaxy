@@ -1,0 +1,16 @@
+{
+  "productName": "Ethereum Ecosystem Galaxy",
+  "description": "An interactive WebGL 3D visualization platform containing over 1,700 projects in the Ethereum ecosystem space. Users can browse the universe of projects categorized across multiple dynamic orbits.",
+  "features": [
+    "3D WebGL Canvas Rendering",
+    "Ethereum Silk & Dark Theming",
+    "Hover-triggered Information Side Panels",
+    "Real-time tag filtering",
+    "Search functionality"
+  ],
+  "requirements": [
+    "Application MUST maintain 60FPS using InstancedMesh arrays.",
+    "Hovering an orb MUST instantly show details without clicking.",
+    "Silk mode MUST use High-fidelity `#F0F2F9` contrast palettes."
+  ]
+}

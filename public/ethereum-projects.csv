@@ -1,0 +1,61 @@
+Name,Description,Tags,URL
+Arbitrum,Leading Ethereum Layer 2 scaling solution using optimistic rollups for faster and cheaper transactions,Layer2|DeFi|Infrastructure,https://arbitrum.io
+Optimism,Ethereum Layer 2 scaling solution using optimistic rollups with focus on simplicity and compatibility,Layer2|DeFi|Infrastructure,https://optimism.io
+zkSync,zkRollup Layer 2 scaling protocol providing trustless cryptographic security and scalability,Layer2|ZK|DeFi,https://zksync.io
+Polygon,Multi-chain scaling solution for Ethereum providing fast and low-cost transactions,Layer2|DeFi|Infrastructure,https://polygon.technology
+Base,Coinbase's Ethereum Layer 2 built on the OP Stack for secure and low-cost onchain applications,Layer2|DeFi|Infrastructure,https://base.org
+Uniswap,Leading decentralized exchange protocol for automated token swapping on Ethereum,DeFi|Infrastructure,https://uniswap.org
+Aave,Decentralized non-custodial liquidity protocol for earning interest and borrowing assets,DeFi,https://aave.com
+Compound,Autonomous interest rate protocol for supplying and borrowing crypto assets,DeFi,https://compound.finance
+MakerDAO,Decentralized credit platform backing the DAI stablecoin with collateralized debt positions,DeFi|Infrastructure,https://makerdao.com
+Curve,Decentralized exchange optimized for stablecoin trading with low slippage,DeFi,https://curve.fi
+Lido,Liquid staking solution for Ethereum allowing users to stake ETH without locking assets,DeFi|Infrastructure,https://lido.fi
+Chainlink,Decentralized oracle network providing real-world data to smart contracts,Infrastructure|Data & Analysis,https://chain.link
+OpenSea,World's largest NFT marketplace for buying selling and discovering digital assets,NFT,https://opensea.io
+Blur,Professional NFT marketplace with advanced trading tools and zero marketplace fees,NFT,https://blur.io
+Azuki,Premium anime-inspired NFT collection building the future of Web3 culture,NFT,https://azuki.com
+Pudgy Penguins,Beloved NFT collection of 8888 penguins building a global brand,NFT,https://pudgypenguins.com
+Bored Ape Yacht Club,Iconic NFT collection of 10000 unique apes with exclusive membership benefits,NFT,https://boredapeyachtclub.com
+The Sandbox,Decentralized virtual gaming world where players create own experiences and monetize,Gaming|NFT,https://sandbox.game
+Axie Infinity,Play-to-earn blockchain game where players battle and collect NFT creatures,Gaming|NFT,https://axieinfinity.com
+Immutable X,Layer 2 scaling solution for NFTs with zero gas fees and instant trades,NFT|Layer2,https://immutable.com
+Celestia,Modular blockchain network enabling anyone to deploy their own blockchain,Infrastructure,https://celestia.org
+EigenLayer,Restaking protocol extending Ethereum's cryptoeconomic security to new services,Infrastructure|DeFi,https://eigenlayer.xyz
+The Graph,Decentralized protocol for indexing and querying blockchain data,Infrastructure|Data & Analysis,https://thegraph.com
+ENS Domains,Ethereum Name Service providing human-readable names for Ethereum addresses,Infrastructure,https://ens.domains
+Safe,Most trusted platform for managing digital assets on Ethereum with multi-signature security,Infrastructure,https://safe.global
+dYdX,Leading decentralized exchange for perpetual trading with advanced features,DeFi|Layer2,https://dydx.exchange
+GMX,Decentralized perpetual exchange with low swap fees and zero price impact trades,DeFi,https://gmx.io
+1inch,DEX aggregator finding the best swap rates across multiple exchanges,DeFi,https://1inch.io
+Balancer,Automated portfolio manager and trading platform with programmable liquidity,DeFi,https://balancer.fi
+Synthetix,Derivatives liquidity protocol enabling creation of synthetic assets,DeFi,https://synthetix.io
+Rocket Pool,Decentralized Ethereum staking protocol with permissionless node operation,DeFi|Infrastructure,https://rocketpool.net
+MetaMask,Leading self-custodial crypto wallet for accessing Web3 applications,Infrastructure,https://metamask.io
+WalletConnect,Open protocol connecting wallets to dApps with secure encrypted communications,Infrastructure,https://walletconnect.com
+Gnosis Chain,EVM-compatible blockchain focused on payments and identity,Infrastructure|Layer2,https://gnosis.io
+Scroll,zkEVM Layer 2 solution providing native Ethereum compatibility with zero-knowledge proofs,Layer2|ZK,https://scroll.io
+Starknet,Decentralized validity rollup using STARK proofs for unlimited scalability,Layer2|ZK,https://starknet.io
+LayerZero,Omnichain interoperability protocol enabling seamless cross-chain communication,Bridge|Infrastructure,https://layerzero.network
+Across,Fast and capital-efficient bridge for moving assets across chains,Bridge|DeFi,https://across.to
+Hop Protocol,Scalable rollup-to-rollup general token bridge,Bridge|Layer2,https://hop.exchange
+Connext,Modular interoperability protocol for secure cross-chain communication,Bridge|Infrastructure,https://connext.network
+Filecoin,Decentralized storage network for humanity's most important information,DePIN|Infrastructure,https://filecoin.io
+Arweave,Permanent decentralized data storage protocol,DePIN|Infrastructure,https://arweave.org
+Render Network,Distributed GPU rendering network for creators and developers,DePIN,https://rendernetwork.com
+Helium,Decentralized wireless network powered by the people,DePIN,https://helium.com
+Livepeer,Decentralized video transcoding network reducing costs by 50x,DePIN,https://livepeer.org
+Dune Analytics,Blockchain analytics platform for querying and visualizing on-chain data,Data & Analysis,https://dune.com
+Nansen,Blockchain analytics platform providing actionable insights on crypto trends,Data & Analysis,https://nansen.ai
+Etherscan,Leading Ethereum blockchain explorer and analytics platform,Data & Analysis|Infrastructure,https://etherscan.io
+DefiLlama,Largest TVL aggregator for DeFi protocols across all chains,Data & Analysis|DeFi,https://defillama.com
+Ondo Finance,Institutional-grade blockchain-based financial products and services,RWA|DeFi,https://ondo.finance
+Centrifuge,Real-world asset tokenization platform connecting DeFi with traditional finance,RWA|DeFi,https://centrifuge.io
+Goldfinch,Decentralized credit protocol for lending without crypto collateral,RWA|DeFi,https://goldfinch.finance
+Maple Finance,Institutional capital marketplace for digital asset lending,RWA|DeFi,https://maple.finance
+Pendle,DeFi protocol enabling trading of tokenized future yield,DeFi,https://pendle.finance
+Redstone,Modular oracle providing frequently updated and diverse data feeds,Infrastructure|Data & Analysis,https://redstone.finance
+Flashbots,Research organization working on mitigating MEV extraction,Infrastructure,https://flashbots.net
+ConsenSys,Leading Ethereum software company building infrastructure and tools,Infrastructure,https://consensys.io
+Infura,Scalable blockchain infrastructure providing API access to Ethereum,Infrastructure,https://infura.io
+Alchemy,Web3 development platform powering top blockchain applications,Infrastructure,https://alchemy.com
+QuickNode,Fast and reliable blockchain infrastructure for developers,Infrastructure,https://quicknode.com

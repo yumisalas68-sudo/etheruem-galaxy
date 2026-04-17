@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Logo Load Test</title>
+  <style>
+    body {
+      background: #000;
+      color: #fff;
+      font-family: monospace;
+      padding: 20px;
+    }
+    img {
+      width: 64px;
+      height: 64px;
+      border: 1px solid #fff;
+      margin: 10px;
+    }
+    .test-item {
+      margin: 20px 0;
+      padding: 10px;
+      border: 1px solid #333;
+    }
+  </style>
+</head>
+<body>
+  <h1>Logo Load Test</h1>
+
+  <div class="test-item">
+    <h2>Unichain</h2>
+    <img
+      src="https://public.rootdata.com/images/b6/1729070115236_128x128.webp"
+      alt="Unichain"
+      onload="console.log('Unichain loaded'); this.nextElementSibling.textContent = '✅ Loaded'"
+      onerror="console.error('Unichain failed'); this.nextElementSibling.textContent = '❌ Failed'"
+    />
+    <span>Loading...</span>
+  </div>
+
+  <div class="test-item">
+    <h2>Blast</h2>
+    <img
+      src="https://public.rootdata.com/images/b6/1700530813126_128x128.webp"
+      alt="Blast"
+      onload="console.log('Blast loaded'); this.nextElementSibling.textContent = '✅ Loaded'"
+      onerror="console.error('Blast failed'); this.nextElementSibling.textContent = '❌ Failed'"
+    />
+    <span>Loading...</span>
+  </div>
+
+  <div class="test-item">
+    <h2>Ethena</h2>
+    <img
+      src="https://public.rootdata.com/images/b6/1689602918645_128x128.webp"
+      alt="Ethena"
+      onload="console.log('Ethena loaded'); this.nextElementSibling.textContent = '✅ Loaded'"
+      onerror="console.error('Ethena failed'); this.nextElementSibling.textContent = '❌ Failed'"
+    />
+    <span>Loading...</span>
+  </div>
+
+  <script>
+    console.log('Test page loaded. Check console for image load events.');
+  </script>
+</body>
+</html>
